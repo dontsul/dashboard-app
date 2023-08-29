@@ -1,7 +1,7 @@
 import styled from "styled-components";
 import { List } from "../list/List";
 import { ItemSettingBlock } from "./itemSettingBlock/ItemSettingBlock";
-import { settingsList } from "./SettingsList";
+import { settingsList } from "./settingsList";
 
 const StyledWrapper = styled.div`
   position: absolute;
