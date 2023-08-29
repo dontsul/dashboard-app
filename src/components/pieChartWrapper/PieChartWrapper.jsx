@@ -1,7 +1,7 @@
 import styled from "styled-components";
 import { HeaderPieChartWrapper } from "./headerPieChartWrapper/HeaderPieChartWrapper";
 import { useState, createContext } from "react";
-import { LocationPopUp } from "./locationPopUp/locationPopUp";
+import { LocationPopUp } from "./locationPopUp/LocationPopUp";
 import { locationData } from "./locationPopUp/locationData";
 import { useSelector } from "react-redux";
 import { Flex } from "../flex/Flex";
