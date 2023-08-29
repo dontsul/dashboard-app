@@ -1,6 +1,6 @@
 import styled from "styled-components";
 import { TableHeader } from "./tableHeader/TableHeader";
-import { TableBodyList } from "./tableBodyList/tableBodyList";
+import { TableBodyList } from "./tableBodyList/TableBodyList";
 
 const StyledTable = styled.div`
   display: grid;
